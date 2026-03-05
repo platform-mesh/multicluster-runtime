@@ -131,3 +131,5 @@ No, plugins are out of scope for now. Multicluster-runtime needs source code cha
 1. enable multi-cluster support by replacing some controller-runtime imports with the multicluster-runtime equivalents and
 2. wire supported providers.
 The provider interface is simple. So it is not ruled out to have some plugin mechanism in the future.
+
+<p align="center"><img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/></p>
